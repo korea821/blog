@@ -1,6 +1,7 @@
 permalink: /:year:month:day/:title
-url: https://korea821.github.io/blog
+url: https://korea821.github.io
 baseurl: /project
+remote_theme: aweekj/Kiko-plus
 
 # variables
 name: Your Site Name
